@@ -126,6 +126,6 @@ button:active, button:hover {
     cursor: pointer;
 }
 
-button:active {
+button:active, button:focus {
     background-color: hsl(158, 36%, 17%);
 }
